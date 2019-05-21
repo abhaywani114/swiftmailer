@@ -1,5 +1,5 @@
-Swift Mailer
-------------
+# Swift Mailer
+
 
 Swift Mailer is a component based mailing solution for PHP 7.
 It is released under the MIT license.
